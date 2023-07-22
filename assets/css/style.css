@@ -678,7 +678,11 @@
         bottom: 74px;
     }
     .max-width_345 {
-        max-width: 100%;
+        max-width: 345px;
+    }
+    
+    .max-width_536 {
+        max-width: 536px;
     }
 }
 
