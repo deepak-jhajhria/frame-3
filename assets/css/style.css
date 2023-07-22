@@ -142,9 +142,11 @@
 
 .position {
     position: relative;
+
+}
+.b_54{
     bottom: 54px;
 }
-
 .pt_73 {
     padding-top: 73px;
 }
@@ -672,6 +674,12 @@
         padding-right: 12px;
         margin-top: 30px;
     }
+    .b_54{
+        bottom: 74px;
+    }
+    .max-width_345 {
+        max-width: 100%;
+    }
 }
 
 @media (min-width:320px) {
@@ -687,6 +695,17 @@
         padding-right: 12px;
         margin-top: 30px;
     }
+    .max-width_806 {
+        max-width: 100%;
+    }
+    
+    .max-width_345 {
+        max-width: 60%;
+    }
+    .b_54{
+        bottom: 24px;
+    }
+
 }
 
 @media (min-width:1190px) {
