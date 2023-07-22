@@ -674,16 +674,6 @@
         padding-right: 12px;
         margin-top: 30px;
     }
-    .b_54{
-        bottom: 74px;
-    }
-    .max-width_345 {
-        max-width: 345px;
-    }
-    
-    .max-width_536 {
-        max-width: 536px;
-    }
 }
 
 @media (min-width:320px) {
@@ -698,16 +688,6 @@
         padding-left: 12px;
         padding-right: 12px;
         margin-top: 30px;
-    }
-    .max-width_806 {
-        max-width: 100%;
-    }
-    
-    .max-width_345 {
-        max-width: 60%;
-    }
-    .b_54{
-        bottom: 24px;
     }
 
 }
