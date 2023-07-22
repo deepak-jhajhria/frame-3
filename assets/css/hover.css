@@ -1,0 +1,26 @@
+.card:hover{
+    transform: scale(1.1);
+    transition: all 400ms linear;
+    background-color: #F4241E;
+}
+.card_2:hover{
+    transform: scale(1.1);
+    transition: all 400ms linear;
+    background-color: #F4241E;
+}
+.bg-yellow_3:hover{
+    transform: scale(1.1);
+    transition: all 400ms linear;
+}
+.images:hover{
+    transform: scale(1.1);
+    transition: all 400ms linear;
+}
+.button:hover{
+    transition: all 300ms linear;
+    transform: scale(1.1);
+    color:var(--red);
+}
+.font_18:hover {
+    color: var(--red);
+}
